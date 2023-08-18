@@ -1,0 +1,162 @@
+[
+ {
+   "STUDIO_ID": "A",
+   "STUDIO_NAME": "Alpoville",
+   "MACADDR": "",
+   "AVAILABLE": true,
+   "INST_TYPE": 2,
+   "INST_MAKE": "Fandor",
+   "INST_MODEL": "Bass Amp",
+   "RENTAL_PRICE": 1.05
+ },
+ {
+   "STUDIO_ID": "B",
+   "STUDIO_NAME": "Bootles",
+   "MACADDR": "c4.42.68.26.89.4e",
+   "AVAILABLE": true,
+   "INST_TYPE": 4,
+   "INST_MAKE": "Stonwuy",
+   "INST_MODEL": "Baby Grand",
+   "RENTAL_PRICE": 5.99
+ },
+ {
+   "STUDIO_ID": "C",
+   "STUDIO_NAME": "Claff",
+   "MACADDR": "c4.42.68.38.90.7b",
+   "AVAILABLE": true,
+   "INST_TYPE": 6,
+   "INST_MAKE": "LB",
+   "INST_MODEL": "Large Cowbell",
+   "RENTAL_PRICE": 5.99
+ },
+ {
+   "STUDIO_ID": "D",
+   "STUDIO_NAME": "Divy",
+   "MACADDR": "",
+   "AVAILABLE": true,
+   "INST_TYPE": 2,
+   "INST_MAKE": "Fandor",
+   "INST_MODEL": "Bass Amp",
+   "RENTAL_PRICE": 1.05
+ },
+ {
+   "STUDIO_ID": "E",
+   "STUDIO_NAME": "Ehggles",
+   "MACADDR": "00-10-7f-c2-b6-f3",
+   "AVAILABLE": true,
+   "INST_TYPE": 1,
+   "INST_MAKE": "Gebsun",
+   "INST_MODEL": "Guitar Amp",
+   "RENTAL_PRICE": 2.45
+ },
+ {
+   "STUDIO_ID": "F",
+   "STUDIO_NAME": "Fardiner",
+   "MACADDR": "",
+   "AVAILABLE": true,
+   "INST_TYPE": 5,
+   "INST_MAKE": "Yomihe",
+   "INST_MODEL": "Drum Set",
+   "RENTAL_PRICE": 3.8
+ },
+ {
+   "STUDIO_ID": "G",
+   "STUDIO_NAME": "Gowon",
+   "MACADDR": "c4.42.68.26.8c.c0",
+   "AVAILABLE": true,
+   "INST_TYPE": 5,
+   "INST_MAKE": "Yomihe",
+   "INST_MODEL": "Drum Set",
+   "RENTAL_PRICE": 3.8
+ },
+ {
+   "STUDIO_ID": "H",
+   "STUDIO_NAME": "Hensoon",
+   "MACADDR": "00.10.7f.e2.3b.f6",
+   "AVAILABLE": true,
+   "INST_TYPE": 1,
+   "INST_MAKE": "Gebsun",
+   "INST_MODEL": "Guitar Amp",
+   "RENTAL_PRICE": 2.45
+ },
+ {
+   "STUDIO_ID": "I",
+   "STUDIO_NAME": "Ironic Maid",
+   "MACADDR": "",
+   "AVAILABLE": true,
+   "INST_TYPE": 2,
+   "INST_MAKE": "Fandor",
+   "INST_MODEL": "Bass Amp",
+   "RENTAL_PRICE": 1.05
+ },
+ {
+   "STUDIO_ID": "J",
+   "STUDIO_NAME": "Jamoni",
+   "MACADDR": "c4.42.68.26.87.ab",
+   "AVAILABLE": true,
+   "INST_TYPE": 5,
+   "INST_MAKE": "Yomihe",
+   "INST_MODEL": "Drum Set",
+   "RENTAL_PRICE": 3.8
+ },
+ {
+   "STUDIO_ID": "K",
+   "STUDIO_NAME": "Kess",
+   "MACADDR": "",
+   "AVAILABLE": true,
+   "INST_TYPE": 5,
+   "INST_MAKE": "Yomihe",
+   "INST_MODEL": "Drum Set",
+   "RENTAL_PRICE": 3.8
+ },
+ {
+   "STUDIO_ID": "L",
+   "STUDIO_NAME": "Lid Zopplen",
+   "MACADDR": "",
+   "AVAILABLE": true,
+   "INST_TYPE": 2,
+   "INST_MAKE": "Fandor",
+   "INST_MODEL": "Bass Amp",
+   "RENTAL_PRICE": 1.05
+ },
+ {
+   "STUDIO_ID": "M",
+   "STUDIO_NAME": "Moota Likka",
+   "MACADDR": "",
+   "AVAILABLE": false,
+   "INST_TYPE": 1,
+   "INST_MAKE": "Gebsun",
+   "INST_MODEL": "Guitar Amp",
+   "RENTAL_PRICE": 2.45
+ },
+ {
+   "STUDIO_ID": "N",
+   "STUDIO_NAME": "Nurvono",
+   "MACADDR": "",
+   "AVAILABLE": false,
+   "INST_TYPE": 4,
+   "INST_MAKE": "Stonwuy",
+   "INST_MODEL": "Baby Grand",
+   "RENTAL_PRICE": 5.99
+ },
+ {
+   "STUDIO_ID": "O",
+   "STUDIO_NAME": "Owaysas",
+   "MACADDR": "",
+   "AVAILABLE": false,
+   "INST_TYPE": 4,
+   "INST_MAKE": "Stonwuy",
+   "INST_MODEL": "Baby Grand",
+   "RENTAL_PRICE": 5.99
+ },
+ {
+   "STUDIO_ID": "P",
+   "STUDIO_NAME": "Prutanders",
+   "MACADDR": "",
+   "AVAILABLE": false,
+   "INST_TYPE": 1,
+   "INST_MAKE": "Gebsun",
+   "INST_MODEL": "Guitar Amp",
+   "RENTAL_PRICE": 2.45
+ }
+]
