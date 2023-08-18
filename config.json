@@ -2,7 +2,7 @@
  {
    "STUDIO_ID": "A",
    "STUDIO_NAME": "Alpoville",
-   "MACADDR": "",
+   "MACADDR": "c4.42.68.26.89.4e",
    "AVAILABLE": true,
    "INST_TYPE": 2,
    "INST_MAKE": "Fandor",
@@ -12,7 +12,7 @@
  {
    "STUDIO_ID": "B",
    "STUDIO_NAME": "Bootles",
-   "MACADDR": "c4.42.68.26.89.4e",
+   "MACADDR": "",
    "AVAILABLE": true,
    "INST_TYPE": 4,
    "INST_MAKE": "Stonwuy",
