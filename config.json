@@ -82,7 +82,7 @@
  {
    "STUDIO_ID": "I",
    "STUDIO_NAME": "Ironic Maid",
-   "MACADDR": "",
+   "MACADDR": "c4.42.68.26.87.ab",
    "AVAILABLE": true,
    "INST_TYPE": 2,
    "INST_MAKE": "Fandor",
@@ -92,7 +92,7 @@
  {
    "STUDIO_ID": "J",
    "STUDIO_NAME": "Jamoni",
-   "MACADDR": "c4.42.68.26.87.ab",
+   "MACADDR": "",
    "AVAILABLE": true,
    "INST_TYPE": 5,
    "INST_MAKE": "Yomihe",
