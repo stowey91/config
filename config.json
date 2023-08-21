@@ -72,7 +72,7 @@
  {
    "STUDIO_ID": "H",
    "STUDIO_NAME": "Hensoon",
-   "MACADDR": "00.10.7f.e2.3b.f6",
+   "MACADDR": "c4.42.68.26.89.4e",
    "AVAILABLE": true,
    "INST_TYPE": 1,
    "INST_MAKE": "Gebsun",
@@ -82,7 +82,7 @@
  {
    "STUDIO_ID": "I",
    "STUDIO_NAME": "Ironic Maid",
-   "MACADDR": "c4.42.68.26.89.4e",
+   "MACADDR": "",
    "AVAILABLE": true,
    "INST_TYPE": 2,
    "INST_MAKE": "Fandor",
